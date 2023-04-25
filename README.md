@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="صورة متحركة لمبرمج"width="50%" height="50%"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="50%" height="50%"/>
 </div>
 
 <div id="badges" align="center">
@@ -19,10 +19,10 @@
 <hr>
 <ul>
 <li>🌍 I'm based in Tripoli</li>
-<li>✉️ You can contact me at cyrineghwela1@gmail.com</li>
+<li>✉️ You can contact me at hatemjaffer1997@gmail.com</li>
 <li>🎓 I studied computer science at the College of Computer Technology Tripoli.</li>
-<li> 🌱 I’m currently learning **ASP.NET**</li>
-<li>🤝 I'm open to collaborating on Desktop application devolper and a graphic designer</li>
+<li>🌱 I’m currently learning **ASP.NET**</li>
+<li>🤝I'm open to collaborating on Desktop application devolper and a graphic designer</li>
 </ul>
 
 <hr>
